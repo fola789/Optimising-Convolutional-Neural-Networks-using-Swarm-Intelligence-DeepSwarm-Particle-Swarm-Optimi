@@ -1,9 +1,0 @@
-setup.py
-devol/__init__.py
-devol/devol.py
-devol/genome_handler.py
-devol.egg-info/PKG-INFO
-devol.egg-info/SOURCES.txt
-devol.egg-info/dependency_links.txt
-devol.egg-info/requires.txt
-devol.egg-info/top_level.txt
